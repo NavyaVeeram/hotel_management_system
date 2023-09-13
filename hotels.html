@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Creating Dynamic Tabs in Bootstrap via Data attributes</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+<style>
+figure{
+    border:none;
+    width:300px;
+  
+  }
+  figure figcaption{
+    background-color: black;
+    color:white;
+    padding:30px;
+  
+  }
+ 
+</style>
+</head>
+<body>
+<div class="m-4">
+    <ul class="nav nav-tabs" id="myTab">
+        <li class="nav-item">
+            <a href="#mumbai" class="nav-link active" data-bs-toggle="tab">mumbai</a>
+        </li>
+        <li class="nav-item">
+            <a href="#newdelhi" class="nav-link" data-bs-toggle="tab">new delhi</a>
+        </li>
+        <li class="nav-item">
+            <a href="#bengaluru" class="nav-link" data-bs-toggle="tab">bengaluru</a>
+        </li>
+       
+        <li class="nav-item">
+            <a href="#hydrebad" class="nav-link" data-bs-toggle="tab">Hyderabad</a>
+        </li>
+        <li class="nav-item">
+            <a href="#vizak" class="nav-link" data-bs-toggle="tab">Vishakapatnam</a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="mumbai">
+     <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Radisson mumbai<br>Rs.18,000</figcaption></figure>
+     </div>
+     <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Fairfield by Marriot<br>Rs.20,000</figcaption></figure>
+        </div>
+        <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Tthe Orchid Hotel Mumbai<br>Rs.30,000</figcaption></figure>
+       </div>
+       <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>The empresa Hotel <br>Rs.16,000</figcaption></figure>
+       
+          </div></div></div></div>
+        <div class="tab-pane fade" id="newdelhi">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>Tag Palace<br>Rs.40,000</figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Taj Mahal Hotel<br>Rs.30,000</figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Radision Blu plaza<br>Rs.18,000</figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>the leela Palace<br>Rs.60,000</figcaption></figure>
+        
+        </div> </div></div></div>
+        <div class="tab-pane fade" id="bengaluru">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>The Oberul bengalure<br>Rs.12,000</figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>lbls Bengaluru city Centre<br>Rs.15,000</figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Hyatt centric MG Road<br>Rs.30,000</figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Welcome hotel by ITC Hotels <br>Rs.20,000</figcaption></figure>
+          </div>
+         
+                       </div>   </div>                                        
+        </div>
+        <div class="tab-pane fade" id="hydrebad">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>Holiday in express hydrebad<br>Rs.30,000</figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Taj Banjara <br>Rs.40,000</figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Vinanta Hydrebad<br>Rs.30,000 </figcaption></figure>
+          </div>
+          <div class="col-sm-3">
+          <figure><img src="" width="300px" height="200px"><figcaption>Novotel hydredad<br>Rs.20,000</figcaption></figure>
+         
+        </div></div></div></div>
+        <div class="tab-pane fade" id="vizak">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>Novotel vishakapatnam<br>Rs.40,000</figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>The gate way hotel beach road<br>Rs.14,000 </figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>Dolhpin hotel<br>Rs.25,000</figcaption></figure>
+            </div>
+            <div class="col-sm-3">
+            <figure><img src="" width="300px" height="200px"><figcaption>The park Vishakapatnam<br>Rs.15,000 </figcaption></figure>
+          </div></div>
+        </div>
+    </div>`
+</div>
+</body>
+</html>

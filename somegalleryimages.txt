@@ -1,0 +1,41 @@
+ <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/19-pool-700x660.jpg" width="100%"></div>
+    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/09-bar-deck-700x660.jpg" width="100%"></div>
+    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/02-Lobby-700x660.jpg" width="100%"></div>
+    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/01-facade-700x660.jpg" width="100%"></div>
+</div>
+                    </div>
+                    <div class="container p-3">
+                        <div class="row">
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/23-meeting-room-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/21-conference-foyer-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/13-rooms-exec-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/15-gym-700x660.jpg" width="100%"></div>
+                        </div>
+                                            </div>
+                                            <div class="container p-3">
+                                                <div class="row">
+                                                    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/16-massage-room-700x660.jpg" width="100%"></div>
+                                                    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/18-pool-700x660.jpg" width="100%"></div>
+                                                    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/20-pool-side-garden-700x660.jpg" width="100%"></div>
+                                                    <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/22-meeting-room-700x660.jpg" width="100%"></div>
+                                                </div>
+                                                                    </div>
+                                                                    <div class="container p-3">
+                                                                        <div class="row">
+                                                                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/25-meeting-room-700x660.jpg" width="100%"></div>
+                                                                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/27-gift-shop-700x660.jpg" width="100%"></div>
+                                                                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/03-restaurant-700x660.jpg" width="100%"></div>
+                                                                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/04-coffee-shop-700x660.jpg" width="100%"></div>
+                                                                        </div>
+                                                                                            </div>
+                    </body> <div class="container p-3">
+                        <div class="row">
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/05-coffee-shop-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/06-bar-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/07-bar-700x660.jpg" width="100%"></div>
+                            <div class="col-md-3"><img src="https://ekahotel.com/wp-content/uploads/2022/04/08-bar-deck-700x660.jpg" width="100%"></div>
+                        </div>
+                                            </div>
+                              <div class="container text-center rounded-pill p-5">
+                                            <button class="btn btn-warning text-white p-3">Download high resolution photos</button>
+                                        </div>
